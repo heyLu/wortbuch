@@ -12,3 +12,4 @@ Alles beginnt mit *Band 0: (Vor-)Wort*.
 * beutelwörter
 * ach. so. ach so. ach so!
 * zärtliche begriffsgebung im breitensport
+* chic-sal
